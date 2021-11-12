@@ -1,0 +1,92 @@
+<!doctype html>
+<html ng-app="newsletterGeneratorApp">
+<head>
+    <meta charset="UTF-8">
+    <script src="js/angular.min.js"></script>
+    <script src='js/textAngular-rangy.min.js'></script>
+    <script src='js/textAngular-sanitize.min.js'></script>
+    <script src='js/textAngular.min.js'></script>
+    <script src='js/clipboard.min.js'></script>
+    <script src='js/ngclipboard.min.js'></script>
+    <script src="js/main.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="js/textAngular.css">
+    <style type="text/css">
+        .modaleCustom {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 1050;
+            outline: 0;
+        }
+        .modal-body {
+            overflow: scroll;
+            height: 150px;
+        }
+    </style>
+</head>
+<body ng-controller="BlocsController as controller">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between sticky-top">
+        <a class="navbar-brand" href="#">Newsletter generator</a>
+        <button class="btn btn-success" ng-click="controller.generateHTML()">Générer HTML</button>
+        <button class="btn btn-primary" ng-click="controller.addNewBloc()">Ajouter un bloc</button>
+    </nav>
+    <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <div class="form-group">
+                    <label for="url_version_en_ligne">URL de la version en ligne</label>
+                    <input id="url_version_en_ligne" class="form-control" type="text" ng-model="controller.urlEnLigne" placeholder="L'url de la version en ligne de la newsletter">
+                </div>
+            </div>
+        </div>
+        <div class="card" ng-repeat="bloc in controller.blocs track by $index">
+            <div class="card-body">
+                <div class="clearfix">
+                    <h2 class="card-title float-left">Bloc numéro {{$index +1}}</h2>
+                    <button type="button" class="btn btn-danger float-right" ng-if="controller.blocs.length > 1" ng-click="controller.removeBloc(bloc.id)">
+                        Supprimer ce bloc
+                    </button>
+                </div>
+                <div class="form-group">
+                    <label for="titre_{{bloc.id}}">Titre</label>
+                    <input id="titre_{{bloc.id}}" class="form-control" type="text" ng-model="bloc.title" placeholder="Le titre du bloc">
+                    <label for="url_{{bloc.id}}">Url de l'image</label>
+                    <input id="url_{{bloc.id}}" class="form-control" type="text" ng-model="bloc.url" placeholder="L'url de l'image">
+                    <label for="urlLien_{{bloc.id}}">Url du lien de l'image</label>
+                    <input id="urlLien_{{bloc.id}}" class="form-control" type="text" ng-model="bloc.urlImage" placeholder="L'url du lien placé sur l'image">
+                    <label for="content_{{bloc.id}}">Contenu</label>
+                    <div id="content_{{bloc.id}}" class="form-control" ng-model="bloc.content" text-angular="text-angular"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="modaleCustom" ng-hide="!controller.modalOpened">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">HTML à copier</h5>
+                    <button type="button" class="close" ng-click="controller.modalOpened = false" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" ngclipboard data-clipboard-target="#htmlContentToCopy">Copier dans le presse-papier</button>
+                </div>
+                <div class="modal-body">
+                    <div ng-if="controller.successfull">Copié avec succès</div>
+                    <pre id="htmlContentToCopy">
+                        {{controller.modalContent}}
+                    </pre>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

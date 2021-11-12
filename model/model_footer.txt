@@ -1,0 +1,258 @@
+
+<table class="container float-center" style="Margin: 0
+                  auto; background: #fefefe; background-color: #fff;
+                  border-collapse: collapse; border-spacing: 0; float:
+                  none; margin: 0 auto; padding: 0; text-align: center;
+                  vertical-align: top; width: 580px;" align="center"
+       width="580">
+    <tbody>
+    <tr style="padding: 0; text-align: left;
+                      vertical-align: top;">
+        <td style="-moz-hyphens: auto; -webkit-hyphens:
+                        auto; Margin: 0; border-collapse: collapse
+                        !important; color: #0a0a0a; font-family:
+                        Helvetica, Arial, sans-serif; font-size: 14px;
+                        font-weight: normal; hyphens: auto; line-height:
+                        1.3; margin: 0; padding: 0; text-align: left;
+                        vertical-align: top; word-wrap: break-word;">
+            <table class="wrapper" style="border-collapse:
+                          collapse; border-spacing: 0; padding: 0;
+                          text-align: left; vertical-align: top; width:
+                          100%;" align="center">
+                <tbody>
+                <tr style="padding: 0; text-align: left;
+                              vertical-align: top;">
+                    <td class="wrapper-inner"
+                        style="-moz-hyphens: auto;
+                                -webkit-hyphens: auto; Margin: 0;
+                                border-collapse: collapse !important;
+                                color: #0a0a0a; font-family: Helvetica,
+                                Arial, sans-serif; font-size: 14px;
+                                font-weight: normal; hyphens: auto;
+                                line-height: 1.3; margin: 0; padding: 0;
+                                text-align: left; vertical-align: top;
+                                word-wrap: break-word;">
+                        <table class="row footer"
+                               style="background: #f3f3f3;
+                                  border-collapse: collapse;
+                                  border-spacing: 0; display: table;
+                                  padding: 0; position: relative;
+                                  text-align: left; vertical-align: top;
+                                  width: 100%;">
+                            <tbody>
+                            <tr style="padding: 0; text-align:
+                                      left; vertical-align: top;">
+                                <th class="small-12 large-12
+                                        columns first last"
+                                    style="Margin: 0 auto; color:
+                                        #0a0a0a; font-family: Helvetica,
+                                        Arial, sans-serif; font-size:
+                                        14px; font-weight: normal;
+                                        line-height: 1.3; margin: 0
+                                        auto; padding: 0;
+                                        padding-bottom: 16px;
+                                        padding-left: 16px;
+                                        padding-right: 16px; text-align:
+                                        left; width: 564px;">
+                                    <table style="border-collapse:
+                                          collapse; border-spacing: 0;
+                                          padding: 0; text-align: left;
+                                          vertical-align: top; width:
+                                          100%;">
+                                        <tbody>
+                                        <tr style="padding: 0;
+                                              text-align: left;
+                                              vertical-align: top;">
+                                            <th style="Margin: 0;
+                                                color: #0a0a0a;
+                                                font-family: Helvetica,
+                                                Arial, sans-serif;
+                                                font-size: 14px;
+                                                font-weight: normal;
+                                                line-height: 1.3;
+                                                margin: 0; padding: 0;
+                                                text-align: left;">
+                                                <p class="text-center"
+                                                   style="Margin: 0;
+                                                  Margin-bottom: 10px;
+                                                  color: #767676;
+                                                  font-family:
+                                                  Helvetica, Arial,
+                                                  sans-serif; font-size:
+                                                  11px; font-weight:
+                                                  normal; line-height:
+                                                  15px; margin: 0;
+                                                  margin-bottom: 10px;
+                                                  padding: 0;
+                                                  text-align: center;">
+                                                    <b>Newsletter de
+                                                        l'académie
+                                                        d'Orléans-Tours</b>,
+                                                    Directrice de
+                                                    publication : Katia
+                                                    Béguin.<br>
+                                                    Service de
+                                                    communication,
+                                                    rectorat de l'académie
+                                                    d'Orléans-Tours, 21
+                                                    rue Saint-Étienne,<br>
+                                                    45043 Orléans Cedex 1,<br>
+                                                    T 02.38.79.38.79 - <a
+                                                        href="mailto:communication@ac-orleans-tours.fr" style="Margin: 0; color:
+                                                    #2199e8;
+                                                    font-family:
+                                                    Helvetica, Arial,
+                                                    sans-serif;
+                                                    font-weight: normal;
+                                                    line-height: 1.3;
+                                                    margin: 0; padding:
+                                                    0; text-align: left;
+                                                    text-decoration:
+                                                    none;"
+                                                        moz-do-not-send="true">communication@ac-orleans-tours.fr</a>
+                                                </p>
+                                                <p class="text-center
+                                                  signatureApplication"
+                                                   style="Margin: 0;
+                                                  Margin-bottom: 10px;
+                                                  color: #767676;
+                                                  font-family:
+                                                  Helvetica, Arial,
+                                                  sans-serif; font-size:
+                                                  11px; font-weight:
+                                                  normal; line-height:
+                                                  15px; margin: 0;
+                                                  margin-bottom: 10px;
+                                                  padding: 0;
+                                                  text-align: center;">
+                                                    Campagne <span
+                                                        class="idRene"
+                                                        style="color:
+                                                    #939393;">Hk0Wy95ob-0</span>,
+                                                    applicatif <i>Responsive
+                                                    Emails Newsletter
+                                                    Editor</i> v1.0.3<br>
+                                                    Copyright © 2016, <abbr
+                                                        title="Académie
+                                                    d'Orléans-Tours"
+                                                        style="border-bottom:
+                                                    1px dashed #939393;"><a
+                                                        href="mailto:ce.rectorat@ac-orleans-tours.fr" style="Margin: 0; color:
+                                                      #767676;
+                                                      font-family:
+                                                      Helvetica, Arial,
+                                                      sans-serif;
+                                                      font-weight:
+                                                      normal;
+                                                      line-height: 1.3;
+                                                      margin: 0;
+                                                      padding: 0;
+                                                      text-align: left;
+                                                      text-decoration:
+                                                      none;"
+                                                        moz-do-not-send="true">Aot</a></abbr>
+                                                    - <abbr
+                                                        title="Division de
+                                                    l'évaluation et la
+                                                    prospective"
+                                                        style="border-bottom:
+                                                    1px dashed #939393;"><a
+                                                        href="mailto:ce.dep@ac-orleans-tours.fr" style="Margin: 0; color:
+                                                      #767676;
+                                                      font-family:
+                                                      Helvetica, Arial,
+                                                      sans-serif;
+                                                      font-weight:
+                                                      normal;
+                                                      line-height: 1.3;
+                                                      margin: 0;
+                                                      padding: 0;
+                                                      text-align: left;
+                                                      text-decoration:
+                                                      none;"
+                                                        moz-do-not-send="true">Dep</a></abbr>
+                                                    - <abbr title="Pôle
+                                                    d'analyse et de
+                                                    développement
+                                                    informatique"
+                                                            style="border-bottom:
+                                                    1px dashed #939393;"><a
+                                                        href="mailto:padi@ac-orleans-tours.fr" style="Margin: 0; color: #767676;
+                                                      font-family:
+                                                      Helvetica, Arial,
+                                                      sans-serif;
+                                                      font-weight:
+                                                      normal;
+                                                      line-height: 1.3;
+                                                      margin: 0;
+                                                      padding: 0;
+                                                      text-align: left;
+                                                      text-decoration:
+                                                      none;"
+                                                        moz-do-not-send="true">Padi</a></abbr>
+                                                </p>
+                                            </th>
+                                            <th class="expander"
+                                                style="Margin: 0; color:
+                                                #0a0a0a; font-family:
+                                                Helvetica, Arial,
+                                                sans-serif; font-size:
+                                                14px; font-weight:
+                                                normal; line-height:
+                                                1.3; margin: 0; padding:
+                                                0 !important;
+                                                text-align: left;
+                                                visibility: hidden;
+                                                width: 0;"><br>
+                                            </th>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <table class="spacer"
+                               style="border-collapse: collapse;
+                                  border-spacing: 0; padding: 0;
+                                  text-align: left; vertical-align: top;
+                                  width: 100%;">
+                            <tbody>
+                            <tr style="padding: 0; text-align:
+                                      left; vertical-align: top;">
+                                <td style="-moz-hyphens: auto;
+                                        -webkit-hyphens: auto; Margin:
+                                        0; background-color: #f3f3f3;
+                                        border-collapse: collapse
+                                        !important; color: #0a0a0a;
+                                        font-family: Helvetica, Arial,
+                                        sans-serif; font-size: 20px;
+                                        font-weight: normal; hyphens:
+                                        auto; line-height: 20px; margin:
+                                        0; mso-line-height-rule:
+                                        exactly; padding: 0; text-align:
+                                        left; vertical-align: top;
+                                        word-wrap: break-word;"
+                                    height="20px"> </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+        src="http://www.google-analytics.com/collect?v=1&amp;tid=UA-80939306-2&amp;cid=cfa318f6-90c2-1c8d-f487-61b15147f04e&amp;uid=charles-henri.baltimor&amp;t=event&amp;ec=email&amp;ea=open&amp;el=RENE-DSI%20diffusion%20201709%203-Hk0Wy95ob-0&amp;cn=rene_Hk0Wy95ob-0_DSI%20diffusion%20201709%203&amp;ci=Hk0Wy95ob-0&amp;cm=email&amp;cs=RENE&amp;dt=[Acad%C3%A9mie+d%27Orl%C3%A9ans-Tours]+Ececa+%C3%A0+la+rentr%C3%A9e+2017&amp;dp=%2Frene%2Femail%2Frene_Hk0Wy95ob-0_DSI%2520diffusion%2520201709%25203"
+        moz-do-not-send="true">
+</div>
+</body>
+</html>
